@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main(){ 
+int main(){                             \\To read a datatypes ,use the syntax : scanf("`format_specifier`", &val)
 
  int p;
  long long int q;
