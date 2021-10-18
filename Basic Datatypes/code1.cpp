@@ -3,7 +3,6 @@ using namespace std;
 
 int main(){ 
 
-    
  int p;
  long long int q;
  char r;
