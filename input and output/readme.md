@@ -28,4 +28,5 @@ Read ```3``` numbers from stdin and print their sum to stdout.
 
 ``` 1 ≤ a,b,c ≤ 1000```  
 
-
+## Source :
+[HackerRank](https://www.hackerrank.com/challenges/cpp-input-and-output/problem?isFullScreen=true)
