@@ -32,5 +32,5 @@ printf("`format_specifier`", val)
 **Note:** You can also use cin and cout instead of scanf and printf; however, if you are taking a million numbers as input and printing a million lines, it is faster to use scanf and printf.
 
 
-## Source :
+* Source :
 [HackerRank](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem?isFullScreen=true)
