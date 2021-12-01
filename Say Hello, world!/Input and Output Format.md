@@ -1,8 +1,8 @@
 
-### Output Format  :    
+*  Output Format  :    
 Print ```Hello , World!```  to stdout.
 
 
 
-### Sample Output  :  
+* Sample Output  :  
 ```Hello, World!```
