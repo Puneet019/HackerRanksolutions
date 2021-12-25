@@ -15,7 +15,7 @@ The ```printf``` command comes from C language. It accepts an optional format sp
 ```
 printf("%s", string); printf(string);
 ```
-#### Note :  neither method adds a newline. It only prints what you tell it to.
+*  Note :  neither method adds a newline. It only prints what you tell it to.
 
 ### Source  : [HackerRank](https://www.hackerrank.com/challenges/cpp-hello-world/problem?isFullScreen=true)
 
